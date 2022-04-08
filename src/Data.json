@@ -1,0 +1,46 @@
+[
+    {
+        "mheading": "Title of vertical gallery",
+        "type": "Travel ",
+        "h1": "Joshua Tree Overnight Adventure",
+        "h1description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit voluptas inventore necessitatibus eaque enim vero.",
+        "timeline": "/ August 21 2017",
+        "h2": "Catch waves with an adventure guide",
+        "h2description": "Gujrat is vastly underrated and it's a mystery to us why the region isn't more well.",
+        "story": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam quasi iusto ad placeat blanditiis repellendus doloribus non illo eaque tempore?",
+        "image": "https://wallpapercave.com/uwp/uwp2063838.jpeg",
+        "bdata": "Baahubali 2: The Conclusion is a 2017 Indian epic action film directed by S. S. Rajamouli, who co-wrote the film with K. V. Vijayendra Prasad...",
+        "hdata": "Spider-Man: No Way Home is a 2021 American superhero film based on the Marvel Comics character Spider-Man, co-produced by Columbia Pictures and Marvel Studios and distributed by Sony Pictures Releasing...",
+        "tdata": "Scottish physicist Robert Alexander Watson-Watt invented radarexactly 100 years ago. The method of using radio from the ...",
+        "fdata": "To put it simply, physical activity and exercise is important for everyone. Children, adolescents as well as old age ...",
+        "trdata": "For centuries, human civilizations across the world have built and created cities, buildings, countries and more from the ..."
+    },
+    {
+        "heading": "Bahubali 2 review",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ April 28 2017"
+    },
+    {
+        "heading": "Spider-Man:No Way Home review",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ Dec 13 2021"
+    },
+    {
+        "heading": "Your fitness guide is here",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ August 21 2017"
+    },
+    {
+        "heading": "Check out the latest tech news",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ August 21 2017"
+    },
+    {
+        "heading": "Explore wonders of the world",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ August 21 2017"
+    },
+    {
+        "profileImage": "public/images/Mask Group 21.png"
+    }
+]
